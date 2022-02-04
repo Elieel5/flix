@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Se preparar para o vestibular é uma missão que precisa de dedicação, pensando nisso, O StoodFlix irá te guiar você nesse caminho."}
+        videoDescription={"Se preparar para o vestibular é uma missão que precisa de dedicação, pensando nisso, O StoodFlix irá guiar você nesse caminho."}
       />
 
       <Carousel
