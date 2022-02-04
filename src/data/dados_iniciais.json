@@ -1,0 +1,189 @@
+{
+  "categorias": [
+    {
+      "titulo": "Matemática",
+      "link": "https://www.youtube.com/watch?v=YJyY6A_MOQc",
+      "cor": " #40E0D0",
+      "link_extra": {
+        "text": "Descomplicando a Matemática",
+        "url": "https://www.professorferretto.com.br/?utm_source=google-ads&utm_medium=search&utm_campaign=int-ago&utm_content=nova-turma&gclid=CjwKCAjwsan5BRAOEiwALzomX-UApXhb2yPrIYhQkUIy0C364hB37klZ1cfbwy55cxmCj3Q0UWUaUBoC4DYQAvD_BwE"
+      },
+      "videos": [
+        {
+          "titulo": "Precisando de ajuda para passar naquele sonhado vestibular? StoodFlix é a solução.",
+          "url": "https://www.youtube.com/watch?v=CrAhfyQlYIU"
+        },
+        {
+          "titulo": "POTENCIAÇÃO",
+          "url": "https://www.youtube.com/watch?v=4Vfw1XiHTpM"
+        },
+        {
+          "titulo": "RADICIAÇÃO",
+          "url": "https://www.youtube.com/watch?v=QmIjZgKhAEo"
+        },
+        {
+          "titulo": "2 grau",
+          "url": "https://www.youtube.com/watch?v=toAaUBwitFE"
+        },
+        {
+          "titulo": "regra 3",
+          "url": "https://www.youtube.com/watch?v=buYey1YGJhA"
+        },
+        {
+          "titulo": "grafico",
+          "url": "https://www.youtube.com/watch?v=8j4ZMn4-nv8"
+        },
+        {
+          "titulo": "porcentagem",
+          "url": "https://www.youtube.com/watch?v=ZZXcTQpbdaE"
+        },
+        {
+          "titulo": "divisao",
+          "url": "https://www.youtube.com/watch?v=885BqdMPTHs"
+        }        
+      ]
+    },
+    {
+      "titulo": "Física",
+      "cor": "#6A5ACD",
+      "link_extra": {
+        "text": "Mergulhando no fenomenal mundo da física",
+        "url": "https://www.todamateria.com.br/fisica/"
+      },
+      "videos": [
+        {
+          "titulo": "newton",
+          "url": "https://www.youtube.com/watch?v=dU14qCv5AuI"
+        },
+        {
+          "titulo": "inércia!",
+          "url": "https://www.youtube.com/watch?v=EF-SLtRmBb8"
+        },
+        {
+          "titulo": "Dinamica",
+          "url": "https://www.youtube.com/watch?v=8Odjs6gmMRA"
+        },
+        {
+          "titulo": "grandezas",
+          "url": "https://www.youtube.com/watch?v=gZcebRl0AR8"
+        }, 
+        {
+          "titulo": "força",
+          "url": "https://www.youtube.com/watch?v=lpe7mT2LSuY"
+        }
+      ]
+    },
+    {
+      "titulo": "Química",
+      "cor": "#00FF00",
+      "link_extra": {
+        "text": "Materializando a Química",
+        "url": "https://www.todamateria.com.br/quimica/"
+      },
+      "videos": [
+        {
+          "titulo": "Intro",
+          "url": "https://www.youtube.com/watch?v=XDBwYrWFZUQ"
+        },
+        {
+          "titulo": "tabela periódica",
+          "url": "https://www.youtube.com/watch?v=yv5168bi1X4"
+        },
+        {
+          "titulo": "modelo",
+          "url": "https://www.youtube.com/watch?v=lDrKIqubzdw"
+        },
+        {
+          "titulo": "substancias",
+          "url": "https://www.youtube.com/watch?v=hbwKwNhIFM4"
+        }
+      ]
+    },
+    {
+      "titulo": "Biologia",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Estudando a vida",
+        "url": "https://www.infoescola.com/biologia/"
+      },
+      "videos": [
+        {
+          "titulo": "Vermes",
+          "url": "https://www.youtube.com/watch?v=wbiFT880Puk"
+        },
+        {
+          "titulo": "Vitologia",
+          "url": "https://www.youtube.com/watch?v=N33jWXzV8RU"
+        },
+        {
+          "titulo": "Células",
+          "url": "https://www.youtube.com/watch?v=C5wehaJMyjE"
+        },
+        {
+          "titulo": "Membranas",
+          "url": "https://www.youtube.com/watch?v=9Nf0EJtwxn0"
+        }
+      ]
+    },
+    {
+      "titulo": "Português",
+      "cor": "#FF00FF",
+      "link_extra": {
+        "text": "Deixando o uso do mim de lado!",
+        "url": "https://www.portugues.com.br/"
+      },
+      "videos": [
+        {
+          "titulo": "Inicio",
+          "url": "https://www.youtube.com/watch?v=ZJn5jjZM5ss"
+        },
+        {
+          "titulo": "Eu ou Mim?",
+          "url": "https://www.youtube.com/watch?v=hfDLU-PgDL8"
+        },
+        {
+          "titulo": "Estar, está ou esta",
+          "url": "https://www.youtube.com/watch?v=ribR0vTcmlo"
+        },
+        {
+          "titulo": "Uso de virgula",
+          "url": "https://www.youtube.com/watch?v=0Q6tIli7oJg"
+        },
+        {
+          "titulo": "Crase",
+          "url": "https://www.youtube.com/watch?v=bOwq8PFHuKU"
+        }
+      ]
+    },
+    {
+      "titulo": "Redação",
+      "cor": "#000080",
+      "link_extra": {
+        "text": "Redação nota Mil",
+        "url": "https://comofazerumaboaredacao.com/#:~:text=Vamos%20abordar%20aqui%20esses%20detalhes,daremos%20aten%C3%A7%C3%A3o%20especial%20a%20ele."
+      },
+      "videos": [
+        {
+          "titulo": "Temas",
+          "url": "https://www.youtube.com/watch?v=cQpY6GQe2a4"
+        },
+        {
+          "titulo": "Dicas",
+          "url": "https://www.youtube.com/watch?v=DZ5gzbE48ms"
+        },
+        {
+          "titulo": "Dicas",
+          "url": "https://www.youtube.com/watch?v=VFNA-7QHtXI"
+        },
+        {
+          "titulo": "Estruturas de redação",
+          "url": "https://www.youtube.com/watch?v=kumwjz1lsIE"
+        },
+        {
+          "titulo": "Revisão",
+          "url": "https://www.youtube.com/watch?v=O2BZ-Ee36dY"
+        }
+      ]
+    }
+  ]
+}
